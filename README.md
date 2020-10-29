@@ -14,9 +14,9 @@ Each sample in the train and test set has the following information:
 
 Correct order of the notebooks:
 
-    text_cleaning.ipynb
-    feature_extraction.ipynb
-    models_tfidf.ipynb
-    models_tabular_data.ipynb
-    eda_feature_selection.ipynb
-    models_tabular_data_feature_selection.ipynb
+    [1]_text_cleaning.ipynb
+    [2]_feature_extraction.ipynb
+    [3]_models_tfidf.ipynb
+    [4]_models_tabular_data.ipynb
+    [5]_eda_feature_selection.ipynb
+    [6]_models_tabular_data_feature_selection.ipynb
