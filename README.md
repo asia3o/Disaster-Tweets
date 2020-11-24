@@ -20,3 +20,4 @@ Correct order of the notebooks:
     [4]_models_tabular_data.ipynb
     [5]_eda_feature_selection.ipynb
     [6]_models_tabular_data_feature_selection.ipynb
+    [7]_bert_sentiment_analysis.ipynb
